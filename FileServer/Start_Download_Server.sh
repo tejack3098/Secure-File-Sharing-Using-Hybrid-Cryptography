@@ -1,0 +1,2 @@
+javac ServerDownload.java
+java ServerDownload

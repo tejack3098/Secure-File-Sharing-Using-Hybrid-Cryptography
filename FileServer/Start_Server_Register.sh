@@ -1,0 +1,2 @@
+javac ServerRegister.java
+java ServerRegister
