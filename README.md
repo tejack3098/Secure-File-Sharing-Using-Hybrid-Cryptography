@@ -1,5 +1,4 @@
-# Secure-File-Sharing-Using-Hybrid-Cryptography
-Secure File Storage and Sharing System
+# Secure File Storage & Sharing System Using Hybrid Cryptography
 
 - Developed an end-to-end encrypted secure file storage system that allows users to securely store and share files with other users
 - Implemented a client-server architecture using Java programming language, with support for chatting and real-time file sharing between users
